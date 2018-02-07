@@ -86,6 +86,8 @@ If you discover any security related issues, please email tooone777@gmail.com in
 - [Jurgens Banninga][link-author]
 - [All Contributors][link-contributors]
 
+Special thanks to [The League of Extraordinary Packages][link-inspiration] for the inspiration and excellent starting point.
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
@@ -103,4 +105,5 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 [link-code-quality]: https://scrutinizer-ci.com/g/Mentalist/SMS
 [link-downloads]: https://packagist.org/packages/Mentalist/SMS
 [link-author]: https://github.com/ment4list
+[link-inspiration]: https://thephpleague.com/
 [link-contributors]: ../../contributors
