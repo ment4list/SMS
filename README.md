@@ -92,18 +92,18 @@ Special thanks to [The League of Extraordinary Packages][link-inspiration] for t
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/Mentalist/SMS.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/mentalist/sms.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/Mentalist/SMS/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/Mentalist/SMS.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/Mentalist/SMS.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/Mentalist/SMS.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/mentalist/sms/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/mentalist/sms.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/mentalist/sms.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/mentalist/sms.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/Mentalist/SMS
-[link-travis]: https://travis-ci.org/Mentalist/SMS
-[link-scrutinizer]: https://scrutinizer-ci.com/g/Mentalist/SMS/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/Mentalist/SMS
-[link-downloads]: https://packagist.org/packages/Mentalist/SMS
+[link-packagist]: https://packagist.org/packages/mentalist/sms
+[link-travis]: https://travis-ci.org/mentalist/sms
+[link-scrutinizer]: https://scrutinizer-ci.com/g/mentalist/sms/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/mentalist/sms
+[link-downloads]: https://packagist.org/packages/mentalist/sms
 [link-author]: https://github.com/ment4list
 [link-inspiration]: https://thephpleague.com/
 [link-contributors]: ../../contributors
